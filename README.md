@@ -1,3 +1,2 @@
 # TugasAkhir-RevisiRepository-
-#semua file yang memiliki nama ASET_ dijadikan 1 file
-#fontawesome dijadikan 1 file
+file yang bernama ASET_fontawesome dijadikan 1 file terlebih dahulu, file yang bernama ASET_ dijadikan 1 file
